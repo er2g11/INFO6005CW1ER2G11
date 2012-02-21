@@ -1,15 +1,15 @@
 Source: info6005cw1er2g11
-Section: unknown
-Priority: extra
+Section: x11
+Priority: optional
 Maintainer: er2g11 <er2g11@soton.ac.uk>
 Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.8.4
-Homepage: <insert the upstream URL, if relevant>
+Homepage: https://github.com/er2g11/INFO6005CW1ER2G11
 #Vcs-Git: git://git.debian.org/collab-maint/info6005cw1er2g11.git
 #Vcs-Browser: http://git.debian.org/?p=collab-maint/info6005cw1er2g11.git;a=summary
 
 Package: info6005cw1er2g11
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: <insert up to 60 chars description>
- <insert long description, indented with spaces>
+Description: php application for rss reading
+ This simple php application reads  RSS feeds from the BBC web site and prints on the screen the titles of the top news
