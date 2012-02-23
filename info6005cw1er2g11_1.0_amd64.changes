@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Sat, 18 Feb 2012 15:48:16 +0000
+Source: info6005cw1er2g11
+Binary: info6005cw1er2g11
+Architecture: source amd64
+Version: 1.0
+Distribution: unstable
+Urgency: low
+Maintainer: er2g11 <er2g11@soton.ac.uk>
+Changed-By: er2g11 <er2g11@soton.ac.uk>
+Description: 
+ info6005cw1er2g11 - php application for rss reading
+Changes: 
+ info6005cw1er2g11 (1.0) unstable; urgency=low
+ .
+   * Initial Release.
+Checksums-Sha1: 
+ b03469f1d3bee65068dc5c9f9cd1d7417d53cd08 552 info6005cw1er2g11_1.0.dsc
+ 3dc12691f34d5adc6a68719d4fc17ab74f69eeb0 18442 info6005cw1er2g11_1.0.tar.gz
+ 0640139bb3d61c6f970892e0df08db42c688be0c 5566 info6005cw1er2g11_1.0_amd64.deb
+Checksums-Sha256: 
+ d160640e4d68510277d2bcc6ed86baa3d20b734e38d61284e82c4efcd60d138a 552 info6005cw1er2g11_1.0.dsc
+ 89b7b613e895db11b01e88be3ac200becb402cd3d4f86ff1720161b925a717fe 18442 info6005cw1er2g11_1.0.tar.gz
+ f459bdd238ab020b00bf5ac9ec0904d5b42fe95321244628d2a61305e5e2f1c4 5566 info6005cw1er2g11_1.0_amd64.deb
+Files: 
+ 7e10e17fbc0f22955c9d042268ebf624 552 x11 optional info6005cw1er2g11_1.0.dsc
+ 93c84ba49dd8ff556291b294f5c5f4b7 18442 x11 optional info6005cw1er2g11_1.0.tar.gz
+ ff1e8050bcd143f6af5f28c03a703e2a 5566 x11 optional info6005cw1er2g11_1.0_amd64.deb
