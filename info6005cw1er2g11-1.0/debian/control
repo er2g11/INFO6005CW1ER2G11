@@ -1,7 +1,7 @@
 Source: info6005cw1er2g11
 Section: x11
 Priority: optional
-Maintainer: er2g11 <er2g11@soton.ac.uk>
+Maintainer: Emmanouil Rigas <er2g11@soton.ac.uk>
 Build-Depends: debhelper (>= 7.0.50~)
 Standards-Version: 3.8.4
 Homepage: https://github.com/er2g11/INFO6005CW1ER2G11
@@ -10,6 +10,8 @@ Homepage: https://github.com/er2g11/INFO6005CW1ER2G11
 
 Package: info6005cw1er2g11
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: php application for rss reading
- This simple php application reads  RSS feeds from the BBC web site and prints on the screen the titles of the top news
+Depends: ${shlibs:Depends}, ${misc:Depends}, php5-cli
+Description: php - rss reading
+ This simple php application reads  RSS feeds 
+ from the BBC web site and prints on the screen 
+ the titles of the top news

@@ -1,10 +1,13 @@
 Package: info6005cw1er2g11
 Version: 1.0
 Architecture: amd64
-Maintainer: er2g11 <er2g11@soton.ac.uk>
+Maintainer: Emmanouil Rigas <er2g11@soton.ac.uk>
 Installed-Size: 22
+Depends: php5-cli
 Section: x11
 Priority: optional
 Homepage: https://github.com/er2g11/INFO6005CW1ER2G11
-Description: php application for rss reading
- This simple php application reads  RSS feeds from the BBC web site and prints on the screen the titles of the top news
+Description: php - rss reading
+ This simple php application reads  RSS feeds
+ from the BBC web site and prints on the screen
+ the titles of the top news
