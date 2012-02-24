@@ -1,18 +1,9 @@
-RSS feeds (v2.2) i.e. stable; urgency=low
+info6005cw1er2g11 (1.0) unstable; urgency=low
 
-  [Emmanouil rigas <er2g11@soton.ac.uk>]
-  * Final
-  * Final
-  * Final
-  * Final
-  * Final
-  * Final
+  * Initial Release.
 
- -- Emmanouil rigas <er2g11@soton.ac.uk>  Fri, 24 Feb 2012 11:56:18 +0000
+ -- er2g11 <er2g11@soton.ac.uk>  Sat, 18 Feb 2012 15:48:16 +0000
 
-RSS feeds (v2.1) i.e. stable; urgency=low
-
-  [Emmanouil rigas <er2g11@soton.ac.uk>]
   * Final
   * Final
   * Final
@@ -35,35 +26,3 @@ RSS feeds (v2.1) i.e. stable; urgency=low
   * adding updated deb file
   * adding updated deb file
   * update debian file
-
- -- Emmanouil rigas <er2g11@soton.ac.uk>  Thu, 23 Feb 2012 20:09:05 +0000
-
-RSS feeds (show) i.e. stable; urgency=low
-
-  [Emmanouil rigas <er2g11@soton.ac.uk>]
-  * Final
-  * Final
-  * Final
-  * Final
-  * Final
-  * Final
-  * first commit
-  * Second Commit
-  * Adding the package
-  * Updating the copyright file
-  * Updating the control file
-  * running package
-  * adding build files
-  * adding build files
-  * adding build files
-  * adding updated readme file
-  * adding updated deb file
-  * adding updated deb file
-  * adding updated deb file
-  * adding updated deb file
-  * adding updated deb file
-  * update debian file
-  * first commit
-
- -- Emmanouil rigas <er2g11@soton.ac.uk>  Sat, 18 Feb 2012 15:19:30 +0000
-
