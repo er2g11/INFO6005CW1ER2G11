@@ -6,12 +6,16 @@ HOW TO INSTALL
 1. Download the info6005cw1er2g11_1.0_amd64.deb
 2. Store the file in any directory
 3. Run the sudo dpkg -i 'info6005cw1er2g11_1.0_amd64.deb' command in the terminal.
-4. The files will be stored in the usr/share/info6005cw1er2g11 	     directory. If this directory does not exist, it will be created autonatically.
+4. If the php is not installed you can do so with the command apt-get -f install.
+5. The files will be stored in the usr/share/info6005cw1er2g11 	     directory. If this directory does not exist, it will be created autonatically.
 
 HOW TO RUN
 
 1. There is a script called "show-news". This is saved in the same directory as above. Once you run it in the terminal, the news will appear.
 2. In order the script to run, you should select the correct path in the terminal. 
+3. You can run it with the command sh show-news.
+4. If you want to see a specified number of feeds you can run the sh show-news --items n command
+5. If you want to see some specific feeds you can do so with the sh show-news --feeds command. 
 
 Github URL: https://github.com/er2g11/INFO6005CW1ER2G11
 
